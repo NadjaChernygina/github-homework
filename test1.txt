@@ -1,1 +1,4 @@
-gitignore це файл, в я кому ми пишемо файли,які git повинен ігнорувати при commits, наприклад пишемо туди /markup/node_modules
+kbjhvj
+ljbkjb
+ lnln lj
+  lknlj n
